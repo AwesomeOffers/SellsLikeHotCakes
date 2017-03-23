@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Sell Liek Hot Cakes",
+    "name": "Sells Like Hot Cakes",
     "currentPage": "index.html",
     "theme": {
       "name": "default",
@@ -9,7 +9,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 1,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
